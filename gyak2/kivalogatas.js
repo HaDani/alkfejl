@@ -19,9 +19,9 @@ function negativE(p) {
     return p < 0;
 }
 
-function pozitivE(p) {
+function pozitivE(p) { 
     return p > 0;
-}
+} 
 
 console.log(kivalogatas(szamok, negativE));
 console.log(kivalogatas(szamok, function negativE(p) {

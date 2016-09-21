@@ -44,11 +44,11 @@ db.remove({}, { multi: true }, function (err, numRemoved) {
                         if (count === 0) {
                             console.log('Vege');
                         }
-                    })
+                    }) 
                 });
             })
         })
-    });
+    }); 
 });
 
 /*fs.readdir('gyak2/images/', function (err, files) {

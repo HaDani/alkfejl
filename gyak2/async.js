@@ -3,3 +3,4 @@ setTimeout(function() {
 }, 1000);
 
 console.log(2);
+  

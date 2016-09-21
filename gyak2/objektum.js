@@ -28,7 +28,7 @@ class Point {
 
     set x(value) {
         this._x = value;
-    }
+    }  
 
     get x() {
         return this._x;
